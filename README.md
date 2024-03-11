@@ -5,7 +5,7 @@
 ![](https://wikibook.co.kr/images/cover/m/9791158394646.png)
 
 ```jsx
-반가워요! 모던 리액트 DeepDive Study입니다!
+반가워요! 모던 리액트 DeepDive Study 입니다!
 ```
 
 ## 🌟 스터디원
